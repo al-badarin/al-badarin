@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jamal al badarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamal al badarin" height="30" width="40" /></a>
-<a href="https://fb.com/jamal al badarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jamal al badarin" height="30" width="40" /></a>
-<a href="https://instagram.com/al.badarin22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="al.badarin22" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jamal al badarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jamal al badarin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jamal-al-badarin-721141201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: Jamal Al Badarin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jamal.al.badarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook: Jamal Al Badarin" height="30" width="40" /></a>
+<a href="https://instagram.com/al.badarin22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: al.badarin22" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@al.badarin22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube: Jamal Al Badarin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
