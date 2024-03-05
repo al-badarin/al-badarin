@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Angular from Software University course**
 
-- 🔭 I’m currently working on [Angular-Demo-Project--YouTube-course-](https://github.com/al-badarin/Angular-Demo-Project--YouTube-course-)
-
 - 👨‍💻 My portfolio here: [https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/](https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/)
 
 - 📫 How to reach me **jamalalbadarin@gmail.com**
