@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Angular-Project-February-2024](https://github.com/al-badarin/Angular-Project-February-2024)
 
-- 🌱 I’m currently learning **Angular from Software University course**
+- 🌱 I’m currently learning <a href="https://softuni.bg/trainings/4363/angular-february-2024">**Angular from Software University course** </a>
 
 - 👨‍💻 My portfolio here: [https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/](https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/)
 
