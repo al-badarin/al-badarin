@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning <a href="https://softuni.bg/trainings/4363/angular-february-2024">**Angular from Software University course** </a>
 
-- 👨‍💻 My portfolio here: [https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/](https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/)
+- 👨‍💻 My portfolio here: [Jamal Al Badarin - Portfolio](https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/)
 
 - 📫 How to reach me **jamalalbadarin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
+- 📄 Know about my experiences [Jamal Al Badarin - CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
