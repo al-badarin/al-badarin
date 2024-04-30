@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning <a href="https://softuni.bg/trainings/4533/js-back-end-may-2024" target="_blank">JS Back-End (Node.js + React) from Software University course</a>
 
-- 👨‍💻 My portfolio here: [Jamal Al Badarin - Portfolio]([https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/](https://jamal-al-badarin-portfolio.netlify.app/))
+- 👨‍💻 My portfolio here: [Jamal Al Badarin - Portfolio](https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/)
 
 - 📫 How to reach me **jamalalbadarin@gmail.com**
 
