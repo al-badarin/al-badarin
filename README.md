@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-badarin" alt="al-badarin" /></a> </p>
 
-- 🔭 I’m currently working on [Angular-Project-February-2024](https://github.com/al-badarin/Angular-Project-February-2024)
+- 🔭 I’m currently working on [CullinaryCompass - recipe sharing website](https://github.com/al-badarin/Angular-Project-February-2024)
 
-- 🌱 I’m currently learning <a href="https://softuni.bg/trainings/4533/js-back-end-may-2024" target="_blank">** JS Back-End (Node.js + React) from Software University course** </a>
+- 🌱 I’m currently learning <a href="https://softuni.bg/trainings/4533/js-back-end-may-2024" target="_blank">JS Back-End (Node.js + React) from Software University course</a>
 
 - 👨‍💻 My portfolio here: [Jamal Al Badarin - Portfolio](https://65dcd42ee88d8d0ca4629a39--heroic-blancmange-715ea1.netlify.app/)
 
