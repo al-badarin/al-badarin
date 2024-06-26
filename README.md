@@ -6,15 +6,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-badarin" alt="al-badarin" /></a> </p>
 
-- 🔭 I’m currently working on [CullinaryCompass - recipe sharing website](https://github.com/al-badarin/Angular-Project-February-2024)
+- 🔭 I’m currently working on [BecomePro - website for professional trainings & workouts](https://github.com/al-badarin/BecomePro)
 
-- 🌱 I’m currently learning <a href="https://softuni.bg/trainings/4533/js-back-end-may-2024" target="_blank">JS Back-End (Node.js + React) from Software University course</a>
+- 🔭 I’m currently working on [Personal Website Portfolio](https://github.com/al-badarin/Jamal-Al-Badarin---Website-Portfolio)
 
-- 👨‍💻 My portfolio here: [Jamal Al Badarin - Portfolio](https://jamal-al-badarin-portfolio.netlify.app/)
+- 🔭 I’m finalizing [CullinaryCompass - recipe sharing website](https://github.com/al-badarin/Angular-Project-February-2024)
+
+- 🌱 I’m currently learning <a href="https://softuni.bg/trainings/4529/reactjs-june-2024" target="_blank">ReactJS from Software University course</a>
+
+- 👨‍💻 My (football) portfolio here: [Jamal Al Badarin - Portfolio](https://jamal-al-badarin-portfolio.netlify.app/)
 
 - 📫 How to reach me **jamalalbadarin@gmail.com**
 
-- 📄 Know about my experiences [Jamal Al Badarin - CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
+- 📄 Know about my (football) experiences [Jamal Al Badarin - CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
