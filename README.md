@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [BecomePro - website for professional trainings & workouts](https://github.com/al-badarin/BecomePro)
 
-- 🔭 I’m currently working on [Personal Website Portfolio](https://github.com/al-badarin/Jamal-Al-Badarin---Website-Portfolio) | https://jamal-al-badarin.netlify.app/
+- 🔭 I’m currently working on [Personal Website Portfolio](https://github.com/al-badarin/Jamal-Al-Badarin---Website-Portfolio) (GitHub repo) | Website LINK: https://jamal-al-badarin.netlify.app/
 
 - 🔭 I’m finalizing [CullinaryCompass - recipe sharing website](https://github.com/al-badarin/Angular-Project-February-2024)
 
