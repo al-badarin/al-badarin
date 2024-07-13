@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-badarin" alt="al-badarin" /></a> </p>
 
-- 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
+- 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1EwBRsikxnf57ZwtMmZ8OCSS29_tIbfn2/view?usp=sharing)
 
 - 🔭 I’m currently working on [BecomePro - website for professional trainings & workouts](https://github.com/al-badarin/BecomePro)
 
@@ -21,14 +21,13 @@
 - 📄 Know about my (football) experiences [Jamal Al Badarin Football CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
 
 - 📫 How to reach me **jamalalbadarin@gmail.com**
-<a href="https://www.linkedin.com/in/jamal-al-badarin-721141201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: Jamal Al Badarin" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jamal-al-badarin-721141201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: Jamal Al Badarin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jamal.al.badarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook: Jamal Al Badarin" height="30" width="40" /></a>
+<!-- <a href="https://www.facebook.com/jamal.al.badarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook: Jamal Al Badarin" height="30" width="40" /></a>
 <a href="https://instagram.com/al.badarin22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: al.badarin22" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@al.badarin22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube: Jamal Al Badarin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@al.badarin22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube: Jamal Al Badarin" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
