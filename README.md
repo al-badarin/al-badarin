@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-badarin" alt="al-badarin" /></a> </p>
 
+- 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
+
 - 🔭 I’m currently working on [BecomePro - website for professional trainings & workouts](https://github.com/al-badarin/BecomePro)
 
 - 🔭 I’m currently working on [Personal Website Portfolio](https://github.com/al-badarin/Jamal-Al-Badarin---Website-Portfolio)
@@ -16,9 +18,10 @@
 
 - 👨‍💻 My (football) portfolio here: [Jamal Al Badarin - Portfolio](https://jamal-al-badarin-portfolio.netlify.app/)
 
-- 📫 How to reach me **jamalalbadarin@gmail.com**
+- 📄 Know about my (football) experiences [Jamal Al Badarin Football CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
 
-- 📄 Know about my (football) experiences [Jamal Al Badarin - CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
+- 📫 How to reach me **jamalalbadarin@gmail.com**
+<a href="https://www.linkedin.com/in/jamal-al-badarin-721141201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: Jamal Al Badarin" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
