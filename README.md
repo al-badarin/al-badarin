@@ -8,9 +8,9 @@
 
 - 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1EwBRsikxnf57ZwtMmZ8OCSS29_tIbfn2/view?usp=sharing)
 
-- 🔭 I’m currently working on [BecomePro - website for professional trainings & workouts](https://github.com/al-badarin/BecomePro)
-
 - 🔭 I’m currently working on [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) (GitHub repo) | Website LINK: https://al-badarin-football.netlify.app/
+
+- 🔭 I’m finalizing [BecomePro - website for professional trainings & workouts](https://github.com/al-badarin/BecomePro) (GitHub repo) | Website LINK: https://becomepro-2024.web.app/
 
 - 🔭 I’m finalizing [CullinaryCompass - recipe sharing website](https://github.com/al-badarin/Angular-Project-February-2024)
 
