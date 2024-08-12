@@ -8,13 +8,13 @@
 
 - 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1EwBRsikxnf57ZwtMmZ8OCSS29_tIbfn2/view?usp=sharing)
 
+- 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a>
+
 - 🔭 I’m currently working on my newest [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) (GitHub repo) | Website LINK: https://al-badarin-football.netlify.app/
 
 - 🔭 I’m finalizing [BecomePro - website for professional trainings & workouts](https://github.com/al-badarin/BecomePro) (GitHub repo) | Website LINK: https://becomepro-2024.web.app/
 
 - 🔭 I’m finalizing [CullinaryCompass - recipe sharing website](https://github.com/al-badarin/Angular-Project-February-2024)
-
-- 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a>
 
 - 👨🏽‍💻 My old (football) portfolio here: [Jamal Al Badarin - Portfolio](https://jamal-al-badarin-portfolio.netlify.app/)
 
