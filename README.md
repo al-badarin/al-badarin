@@ -14,9 +14,9 @@
 
 - 🔭 I’m finalizing [CullinaryCompass - recipe sharing website](https://github.com/al-badarin/Angular-Project-February-2024)
 
-- 🌱 I just finished the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a>
+- 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a>
 
-- 👨‍💻 My old (football) portfolio here: [Jamal Al Badarin - Portfolio](https://jamal-al-badarin-portfolio.netlify.app/)
+- 👨🏽‍💻 My old (football) portfolio here: [Jamal Al Badarin - Portfolio](https://jamal-al-badarin-portfolio.netlify.app/)
 
 - 📄 Know about my (football) experiences [Jamal Al Badarin Football CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
 
