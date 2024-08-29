@@ -12,11 +12,7 @@
 
 - 🔭 I’m currently working on my newest [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) (GitHub repo) | Website LINK: https://al-badarin-football.netlify.app/
 
-- 🔭 I’m finalizing [BecomePro - website for professional trainings & workouts](https://github.com/al-badarin/BecomePro) (GitHub repo) | Website LINK: https://becomepro-2024.web.app/
-
-- 🔭 I’m finalizing [CullinaryCompass - recipe sharing website](https://github.com/al-badarin/Angular-Project-February-2024)
-
-- 👨🏽‍💻 My old (football) portfolio here: [Jamal Al Badarin - Portfolio](https://jamal-al-badarin-portfolio.netlify.app/)
+- 🔭 I’m finalizing [BecomePro - website for professional trainings & workouts](https://github.com/al-badarin/Grip-Socks-BecomePro-Website) (GitHub repo) | Website LINK: [https://becomepro-2024.web.app/](https://grip-socks-becomepro.web.app/)
 
 - 📄 Know about my (football) experiences [Jamal Al Badarin Football CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
 
