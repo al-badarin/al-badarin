@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamal Al Badarin</h1>
-<h3 align="center">A passionate JavaScript developer who is playing football on a professional level</h3>
+<h3 align="center">A passionate JavaScript developer who is a head coach and playing football on a professional level</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-badarin&label=Profile%20views&color=0e75b6&style=flat" alt="al-badarin" /> </p>
@@ -8,7 +8,7 @@
 
 - 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1EwBRsikxnf57ZwtMmZ8OCSS29_tIbfn2/view?usp=sharing)
 
-- 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a>
+- 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a> | DIPLOMA HERE: <a href="[https://softuni.bg/](https://softuni.bg/certificates/details/225839/5ab33139)" target="_blank">view my diploma</a>
 
 - 🔭 I’m currently working on my newest [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) (GitHub repo) | Website LINK: https://al-badarin-football.netlify.app/
 
