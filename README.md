@@ -8,7 +8,7 @@
 
 - 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1EwBRsikxnf57ZwtMmZ8OCSS29_tIbfn2/view?usp=sharing)
 
-- 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a> | DIPLOMA HERE: <a href="[https://softuni.bg/](https://softuni.bg/certificates/details/225839/5ab33139)" target="_blank">view my diploma</a>
+- 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a> | DIPLOMA HERE: <a href="https://softuni.bg/certificates/details/225839/5ab33139" target="_blank">view my diploma</a>
 
 - 🔭 I’m currently working on my newest [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) (GitHub repo) | Website LINK: https://al-badarin-football.netlify.app/
 
