@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-badarin" alt="al-badarin" /></a> </p>
 
-- 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1iAdR24DBVAP8f5SkFYTPQSZ2cpQj4g_N/view?usp=sharing)
+- 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1srvL7TQPP6P-a4bY4OTfNaV4k1uOmQcL/view?usp=drive_link)
 
 - 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a> | DIPLOMA HERE: <a href="https://softuni.bg/certificates/details/225839/5ab33139" target="_blank">view my diploma</a>
 
