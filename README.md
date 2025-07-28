@@ -18,7 +18,7 @@
 
 - 🔭 I’m finalizing [Grip Socks BecomePro Website](https://github.com/al-badarin/Grip-Socks-BecomePro-Website) (GitHub repo) | Website LINK: [https://becomepro-2024.web.app/](https://grip-socks-becomepro.web.app/)
 
-- 📄 Know about my (football) experiences [Jamal Al Badarin Football CV](https://drive.google.com/file/d/1XVFGOghlR-LZHnq9pEV_EZx6sdp0pAGT/view?usp=sharinglancmange-715ea1.netlify.app/)
+- 📄 Know about my (football) experiences [Jamal Al Badarin Football CV](https://drive.google.com/file/d/18Czlxp2lBeWjYQXFtzd19ctr27qDZ3dP/view?usp=drive_link)
 
 - 📫 How to reach me **jamalalbadarin@gmail.com**
 
