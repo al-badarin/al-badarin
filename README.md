@@ -10,6 +10,8 @@
 
 - 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a> | DIPLOMA HERE: <a href="https://softuni.bg/certificates/details/225839/5ab33139" target="_blank">view my diploma</a>
 
+- 🔭 I’m currently working on [React Projects](https://github.com/al-badarin/UDEMY-React-Course-2025) (GitHub repo)
+
 - 🔭 I’m currently working on my newest [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) (GitHub repo) | Website LINK: https://al-badarin-football.netlify.app/
 
 - 🔭 I’m finalizing [Grip Socks BecomePro Website](https://github.com/al-badarin/Grip-Socks-BecomePro-Website) (GitHub repo) | Website LINK: [https://becomepro-2024.web.app/](https://grip-socks-becomepro.web.app/)
