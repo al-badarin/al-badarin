@@ -8,7 +8,9 @@
 
 - 📄 My IT CV [Jamal Al Badarin IT CV](https://drive.google.com/file/d/1srvL7TQPP6P-a4bY4OTfNaV4k1uOmQcL/view?usp=drive_link)
 
-- 🎓 I just graduated from the <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a> | DIPLOMA HERE: <a href="https://softuni.bg/certificates/details/225839/5ab33139" target="_blank">view my diploma</a>
+- 🎓 Currently studying <strong>Software Engineering</strong> at Plovdiv University "Paisii Hilendarski".
+ 
+- 🎓 Diploma from <a href="https://softuni.bg/" target="_blank">JS Web Path from Software University</a> | DIPLOMA HERE: <a href="https://softuni.bg/certificates/details/225839/5ab33139" target="_blank">view my diploma</a>
 
 - 🔭 I’m currently working on [React Projects](https://github.com/al-badarin/UDEMY-React-Course-2025) (GitHub repo)
 
