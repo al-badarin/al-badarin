@@ -2,8 +2,6 @@
 <h3 align="center">A passionate JavaScript developer who is a head coach and playing football on a professional level</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=al-badarin)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-badarin&label=Profile%20views&color=0e75b6&style=flat" alt="al-badarin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-badarin" alt="al-badarin" /></a> </p>
