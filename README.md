@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al-badarin&show_icons=true&locale=en" alt="al-badarin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-badarin&" alt="al-badarin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-badarin" alt="al-badarin - streak" /></p>
