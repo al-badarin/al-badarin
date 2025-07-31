@@ -38,5 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al-badarin&show_icons=true&locale=en" alt="al-badarin" /></p>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=albadarin&theme=dark)](https://git.io/streak-stats) -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=albadarin&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
