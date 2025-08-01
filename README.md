@@ -21,8 +21,7 @@
 ### 📄 About Me
 
 - 🎓 Studying **Software Engineering** at Plovdiv University "Paisii Hilendarski".
-- 📜 Completed [JS Web Path at Software University](https://softuni.bg/)  
-  → [View my diploma](https://softuni.bg/certificates/details/225839/5ab33139)
+- 📜 Completed [JS Web Path at Software University](https://softuni.bg/) → [View my diploma](https://softuni.bg/certificates/details/225839/5ab33139)
 - 🚀 Currently building:
   - [React Projects](https://github.com/al-badarin/UDEMY-React-Course-2025)
   - [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) → [Live Site](https://al-badarin-football.netlify.app/)
@@ -82,7 +81,7 @@
 </p>
 
 <!-- GitHub Streak Section -->
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak" />
   </a>
