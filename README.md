@@ -83,6 +83,6 @@
 <!-- GitHub Streak Section -->
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=al-badarin" alt="GitHub Streak" />
   </a>
 </p>
