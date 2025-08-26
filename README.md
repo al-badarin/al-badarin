@@ -24,7 +24,7 @@
 - 🎓 Studying **Software Engineering** at **Plovdiv University "Paisii Hilendarski"**.
 - 📜 Completed [JS Web Path at Software University](https://softuni.bg/) → [View my diploma](https://softuni.bg/certificates/details/225839/5ab33139)
 - 🚀 Currently building:
-  - [React Projects](https://github.com/al-badarin/UDEMY-React-Course-2025)
+  - [React Projects](https://github.com/al-badarin/UDEMY-React-Course-2025)  → [Live Site](https://projects-albadarin.netlify.app/)
   - [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) → [Live Site](https://al-badarin-football.netlify.app/)
   - [Grip Socks BecomePro Website](https://github.com/al-badarin/Grip-Socks-BecomePro-Website) → [Live Site](https://grip-socks-becomepro.web.app/)
 - 📄 Know more about my experiences:
