@@ -20,7 +20,7 @@
 <!-- About Me Section -->
 ### 📄 About Me
 
-<!-- – 💻 Working as a **Survey Developer** at **IPSOS - Bulgaria**. -->
+– 💻 Working as a **Survey Developer** at **Ipsos**.
 - 🎓 Studying **Software Engineering** at **Plovdiv University "Paisii Hilendarski"**.
 - 📜 Completed [JS Web Path at Software University](https://softuni.bg/) → [View my diploma](https://softuni.bg/certificates/details/225839/5ab33139)
 - 🚀 Currently building:
