@@ -24,6 +24,7 @@
 - 🎓 Studying **Software Engineering** at **Plovdiv University "Paisii Hilendarski"**.
 - 📜 Completed [JS Web Path at Software University](https://softuni.bg/) → [View my diploma](https://softuni.bg/certificates/details/225839/5ab33139)
 - 🚀 Currently building:
+  - [NN Plants App](https://github.com/al-badarin/nn-plants-app) → Platform for real business
   - [IBB Health Project](https://github.com/iwanlothbrok/IBB-Health) → [Live Site](https://ibb-health.vercel.app/)
   - [React Projects](https://github.com/al-badarin/UDEMY-React-Course-2025) → [Live Site](https://projects-albadarin.netlify.app/)
   - [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) → [Live Site](https://al-badarin-football.netlify.app/)
