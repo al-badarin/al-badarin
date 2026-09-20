@@ -1,90 +1,228 @@
-<!-- README.md for GitHub Profile: Jamal Al Badarin -->
+<!-- GitHub Profile README - Jamal Al Badarin -->
 
-<!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Jamal Al Badarin</h1>
-<h3 align="center">A Full-Stack developer who is a UEFA licensed football coach and an ex-professional footbal player</h3>
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<!-- Profile Views Counter -->
-<!-- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=al-badarin&label=Profile%20views&color=0e75b6&style=flat" alt="al-badarin" />
-</p> -->
+<h3 align="center">
+  Full-Stack Developer | Survey Developer | UEFA-Licensed Football Coach
+</h3>
 
-<!-- GitHub Profile Trophy -->
-<!-- <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=al-badarin" alt="al-badarin" />
-  </a>
-</p> -->
-
-<!-- About Me Section -->
-### 📄 About Me
-
-- 💻 Working as a **Survey Developer** at **Ipsos**.
-- 🎓 Studying **Software Engineering** at **Plovdiv University "Paisii Hilendarski"**.
-- 📜 Completed [JS Web Path at Software University](https://softuni.bg/) → [View my diploma](https://softuni.bg/certificates/details/225839/5ab33139)
-- 🚀 Currently building:
-  - [NN Plants App](https://github.com/al-badarin/nn-plants-app) → Platform for real business
-  - [IBB Health Project](https://github.com/iwanlothbrok/IBB-Health) → [Live Site](https://ibb-health.vercel.app/)
-  - [React Projects](https://github.com/al-badarin/UDEMY-React-Course-2025) → [Live Site](https://projects-albadarin.netlify.app/)
-  - [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) → [Live Site](https://al-badarin-football.netlify.app/)
-- 📄 Know more about my experiences:
-  - [IT CV](https://drive.google.com/file/d/19ZiWtR3M4Xlw859FsIoliDWBEgXvMXC-/view?usp=sharing)
-  - [Football CV](https://drive.google.com/file/d/18Czlxp2lBeWjYQXFtzd19ctr27qDZ3dP/view?usp=sharing)
-- 📢 Reach me at: **jamalalbadarin@gmail.com**
-
-<!-- Social Links Section -->
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/jamal-al-badarin/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <!-- Uncomment to add more social links
-  <a href="https://www.facebook.com/jamal.al.badarin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/al.badarin22" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@al.badarin22" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  -->
+<p align="center">
+  I build scalable web products and automate complex business workflows using
+  React, Next.js, Node.js and TypeScript.
 </p>
 
-<!-- Tools & Technologies Section -->
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<p align="center">
+  <a href="https://jamal-al-badarin.netlify.app/">Portfolio</a>
+  •
+  <a href="https://www.linkedin.com/in/jamal-al-badarin/">LinkedIn</a>
+  •
+  <a href="mailto:jamalalbadarin@gmail.com">Email</a>
 </p>
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=al-badarin&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Jamal Al Badarin profile views"
+  />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Working professionally as a **Survey Developer at Ipsos**
+- 🌍 Developing complex, dynamic survey solutions for international research projects across global markets
+- ⚙️ Focused on transforming manual processes into **reliable and scalable digital systems**
+- 🧩 Building with **React, Next.js, TypeScript, Node.js, SQL and PostgreSQL**
+- 🎓 Software Engineering studies at **Plovdiv University "Paisii Hilendarski"**
+- 📜 Completed the **JavaScript Web Developer Path at Software University - SoftUni**
+- ⚽ UEFA-licensed football coach and former professional football player
+- 📩 Reach me at **jamalalbadarin@gmail.com**
+
+### 🎓 JavaScript Web Developer Diploma
+
+[View my SoftUni diploma](https://softuni.bg/certificates/details/225839/5ab33139)
+
+---
+
+## 🚀 Selected Projects
+
+### 🌿 NN Plants - B2B Wholesale Ordering & Inventory Platform
+
+A digital ordering and inventory solution built for a real B2B wholesale flower business.
+
+I first automated a manual sales workflow using **Google Forms, Google Sheets and Google Apps Script**, introducing stock control, anti-oversell protection, order automation and generated documents.
+
+The workflow supported the business as order volume grew from approximately **20 to nearly 100 orders per import cycle - almost 5x the original scale**.
+
+A dedicated **Next.js / TypeScript NN Plants App** is now being developed to evolve the workflow into a full B2B customer and administration platform.
+
+🔗 [Visit NN Plants](https://nn-plants.netlify.app/)
+
+---
+
+### 🩺 IBB Health
+
+A professional health and wellness platform developed for a pharmacist offering personalized supplement and well-being services.
+
+I developed most of the frontend experience using **Next.js, TypeScript and Tailwind CSS**, including responsive pages, service presentation, multilingual content, testimonials, FAQ functionality and conversion-focused contact flows.
+
+🔗 [Visit IBB Health](https://www.ibbhealth.com/en)
+
+---
+
+### 🧦 Grip Socks BecomePro - E-commerce Business Website
+
+A responsive e-commerce website built for my own grip-socks business.
+
+Features include product presentation, pricing, order submission, customer testimonials, searchable FAQ functionality, notifications and responsive UX.
+
+**Tech:** React · JavaScript · Firebase
+
+💻 [GitHub Repository](https://github.com/al-badarin/Grip-Socks-BecomePro-Website)  
+🔗 [Live Website](https://grip-socks-becomepro.web.app/)
+
+---
+
+### ⚽ BecomePro
+
+A full-stack football education platform focused on training, nutrition, mental preparation and player development.
+
+Users can authenticate, browse educational content and create, edit and manage their own articles.
+
+**Tech:** React · JavaScript · Node.js · Firebase
+
+💻 [GitHub Repository](https://github.com/al-badarin/BecomePro)  
+🔗 [Live Website](https://becomepro-2024.web.app/)
+
+---
+
+### ⚛️ React Projects
+
+An ongoing collection of React projects, exercises and applications focused on improving my React and modern frontend development skills.
+
+The repository includes individual projects using concepts such as:
+
+- React Hooks
+- Context API
+- React Router
+- TypeScript
+- Next.js
+- React Query
+- Redux Toolkit
+- Forms and validation
+- Animations
+- Data fetching
+- Testing
+
+Each project contains its own documentation and, where available, a live deployment.
+
+💻 [Explore React Projects](https://github.com/al-badarin/React-Projects)
+
+---
+
+### 🪪 Ninja Card - Frontend Contribution
+
+Contributed frontend pages and UI components to an earlier version of a commercial NFC digital business card platform using **Next.js, TypeScript and Tailwind CSS**.
+
+🔗 [Visit Ninja Card](https://ninjacard.io/en)
+
+---
+
+### ⚽ Football Portfolio
+
+A dedicated portfolio showcasing my background as a football player and coach, including career experience, achievements, analysis work and coaching history.
+
+🔗 [Visit Football Portfolio](https://al-badarin-football.netlify.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Core
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-badarin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express" alt="Core technologies" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=al-badarin&show_icons=true&locale=en" alt="GitHub Stats" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="Frontend technologies" />
 </p>
 
-<!-- GitHub Streak Section -->
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="Backend and database technologies" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Development tools" />
+</p>
+
+---
+
+## 📄 CVs
+
+- 💻 [Software Engineer CV](https://drive.google.com/file/d/19ZiWtR3M4Xlw859FsIoliDWBEgXvMXC-/view?usp=sharing)
+- ⚽ [Football CV](https://drive.google.com/file/d/18Czlxp2lBeWjYQXFtzd19ctr27qDZ3dP/view?usp=sharing)
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=al-badarin" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/jamal-al-badarin/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Jamal%20Al%20Badarin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
+  <a href="mailto:jamalalbadarin@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-jamalalbadarin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://jamal-al-badarin.netlify.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=al-badarin&show_icons=true&hide_border=true"
+    alt="Jamal Al Badarin GitHub Stats"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-badarin&layout=compact&hide_border=true"
+    alt="Jamal Al Badarin Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=al-badarin&hide_border=true"
+    alt="Jamal Al Badarin GitHub Streak"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Focused on building software that solves real business problems and scales with the people using it.</i>
 </p>
