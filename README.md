@@ -6,9 +6,9 @@
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <!-- Profile Views Counter -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=al-badarin&label=Profile%20views&color=0e75b6&style=flat" alt="al-badarin" />
-</p>
+</p> -->
 
 <!-- GitHub Profile Trophy -->
 <p align="left">
@@ -29,8 +29,8 @@
   - [React Projects](https://github.com/al-badarin/UDEMY-React-Course-2025) → [Live Site](https://projects-albadarin.netlify.app/)
   - [Football Portfolio Website](https://github.com/al-badarin/Football-Website-Portfolio) → [Live Site](https://al-badarin-football.netlify.app/)
 - 📄 Know more about my experiences:
-  - [IT CV](https://drive.google.com/file/d/1srvL7TQPP6P-a4bY4OTfNaV4k1uOmQcL/view?usp=drive_link)
-  - [Football CV](https://drive.google.com/file/d/18Czlxp2lBeWjYQXFtzd19ctr27qDZ3dP/view?usp=drive_link)
+  - [IT CV](https://drive.google.com/file/d/19ZiWtR3M4Xlw859FsIoliDWBEgXvMXC-/view?usp=sharing)
+  - [Football CV](https://drive.google.com/file/d/18Czlxp2lBeWjYQXFtzd19ctr27qDZ3dP/view?usp=sharing)
 - 📢 Reach me at: **jamalalbadarin@gmail.com**
 
 <!-- Social Links Section -->
