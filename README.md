@@ -11,11 +11,11 @@
 </p> -->
 
 <!-- GitHub Profile Trophy -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=al-badarin" alt="al-badarin" />
   </a>
-</p>
+</p> -->
 
 <!-- About Me Section -->
 ### 📄 About Me
