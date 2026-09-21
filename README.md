@@ -167,7 +167,7 @@ A dedicated portfolio showcasing my background as a football player and coach, i
 
 ## 📄 CVs
 
-- 💻 [Software Engineer CV](https://drive.google.com/file/d/19ZiWtR3M4Xlw859FsIoliDWBEgXvMXC-/view?usp=sharing)
+- 💻 [Software Engineer CV](https://drive.google.com/file/d/1R6OEHfzwXsaxtTRy0eZo1YuBbGirwSBz/view?usp=sharing)
 - ⚽ [Football CV](https://drive.google.com/file/d/18Czlxp2lBeWjYQXFtzd19ctr27qDZ3dP/view?usp=sharing)
 
 ---
