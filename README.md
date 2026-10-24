@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jamal Al Badarin</h1>
 
 <h3 align="center">
-  Full-Stack Developer | Survey Developer | UEFA-Licensed Football Coach
+   Software Engineer | Full-Stack Developer
 </h3>
 
 <p align="center">
